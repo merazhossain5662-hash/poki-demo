@@ -5,3 +5,12 @@ h1
 {
  color: aqua;
 }
+nav li{
+    display: inline;
+    list-style: none;
+    text-align: center;
+    text-decoration: none;
+}
+nav li:hover{
+    background-color: rgb(77, 77, 104);
+}
